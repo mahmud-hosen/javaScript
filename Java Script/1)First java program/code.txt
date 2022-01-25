@@ -1,0 +1,7 @@
+ <script>
+
+         
+         document.write("<h1> I Loves Bangladesh . <br/> I live in tangail .<br/> I have two brother .</h1>");
+         alert("Mahmud Hossain"); 
+         console.log(" My name is mahmud_Hossain ");
+</script>

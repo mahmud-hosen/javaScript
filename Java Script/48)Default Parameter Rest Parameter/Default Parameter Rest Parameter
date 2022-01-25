@@ -1,0 +1,16 @@
+
+//Default Parameter 
+
+function message(text="I am default parametre"){
+   console.log(text)
+}
+
+message()
+
+//Rest Parameter
+
+function sum(x,y, ...z){
+   console.log(`x = ${x} y = ${y} z = ${z}`)
+}
+
+sum(20,50,40,10,4,6)

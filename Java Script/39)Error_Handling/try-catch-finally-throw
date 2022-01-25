@@ -1,0 +1,40 @@
+try{
+   //Code part
+   alert("Hi mahmud");
+   alert(x)
+
+}catch(e){
+   //Run time error catch 
+   console.log(e)
+   alert(e)
+
+}finally{
+   // It block work all time
+}
+
+
+//.............................Throw .......................
+
+document.querySelector("#checkButton").addEventListener("click",function(){
+   var num = document.querySelector("#numTextfield").value;
+
+   try{
+      if(num < 5 ){
+         throw "Number is too low"
+   
+      }else if(num > 10){
+         throw "Number is too high"
+   
+      }
+   }catch(e){
+      console.log(e)
+   
+   }
+})
+
+
+
+
+
+
+

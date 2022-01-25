@@ -1,0 +1,35 @@
+// FOR LOOP 
+
+
+for(var i=1;i<=10;i++)
+{
+
+document.write(i+"</br>")
+
+}
+
+
+// FOR LOOP 
+
+
+for(var i=1;i<=10;i++)
+{
+
+document.write(" Mahmua"+"</br>")
+
+}
+
+
+
+
+// FOR LOOP 
+
+var sum=0
+for(var i=1;i<=7;i++)
+{
+
+ sum=sum+i
+
+document.write(i+"</br>")
+}
+document.write("SUM = "+sum+"</br>")

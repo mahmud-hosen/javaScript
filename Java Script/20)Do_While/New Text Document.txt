@@ -1,0 +1,9 @@
+// Do While 
+
+var i=0
+
+do{
+
+    document.write("Mahmud"+"</br>")
+    i++
+}while(i<10)

@@ -1,0 +1,14 @@
+Two type of comment :
+Single line comment 
+Double Line comment 
+
+
+
+// It is comment procudre 
+//document.write("Who are you ? ")   single line comment 
+        /*
+         document.write("01787315406 </br>")
+         document.write("Who are you ? ")        Multipul line comment 
+         document.write("Who are you ? ")
+         */
+         document.write("Tell me your phone number  ")

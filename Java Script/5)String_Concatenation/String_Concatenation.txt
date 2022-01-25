@@ -1,0 +1,5 @@
+ //String_Concatenation
+        var firstname="mahmud"
+        var lastname=" hossain"
+        var fullname=firstname+lastname
+        document.write("My name is "+ fullname +" I live in dhakan .")

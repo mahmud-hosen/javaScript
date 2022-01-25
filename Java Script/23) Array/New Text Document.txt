@@ -1,0 +1,45 @@
+// Array
+
+
+
+var names= ["Mahmud","Hasan","Rahim","Sakib","Rife"]
+
+
+
+
+document.write(names.length+"</br>")
+names.push("kamal");
+names.push("mahadi");
+names.push("moly");
+
+document.write(names.length+"</br>")
+
+
+document.write(names[0]+"</br>")
+
+document.write(names[1]+"</br>")
+
+document.write(names[2]+"</br>")
+
+document.write(names[3]+"</br>")
+
+document.write(names[4]+"</br>")
+
+document.write(names[5]+"</br>")
+
+
+names.pop();
+names.pop();
+
+
+
+document.write(names.length+"</br>")
+
+
+// String Concat
+
+var county1=["India","Pakistan"]
+var county2=["Pakistan","Nepal"]
+
+var county=county1.concat(county2)
+document.write(county)

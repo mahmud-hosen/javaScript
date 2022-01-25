@@ -1,0 +1,50 @@
+// String_Related_ Library_ FUnction 
+        
+        var text="mahmud"
+        len=text.length          //length of string 
+        document.write(len)
+
+
+        // User input 
+
+       /* var name=prompt("Enter your name ")
+        document.write(name)
+
+        */
+
+        // charater_at
+           varname1="mahmud"
+           document.write(text.charAt(2))
+
+
+     // Uper_case
+
+
+     var text="hasan"
+     text=text.toUpperCase()
+     document.write(text)
+
+
+     // Lower_case
+
+     var text1="KAMAL"
+     text1=text1.toLowerCase()
+     document.write(text1)
+
+
+     // String_Concatenation Use function 
+
+     var text3="KAMAL is a "
+     var text4=" good student"
+     document.write(text3.concat(text4," </br>") )  
+
+     
+
+    
+
+
+     // slice 
+
+      var text5="mahmud"
+      var text6=text5.slice(2,5)
+      document.write(text6)

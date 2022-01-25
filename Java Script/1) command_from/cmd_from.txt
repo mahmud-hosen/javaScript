@@ -1,0 +1,5 @@
+1) dir=show folder
+2)CLS= clear screen
+3) cls\?= show for use command 
+4) change directory forword  (change folder) =cd terget_folder_name
+5) change directory back  (change folder) =cd..

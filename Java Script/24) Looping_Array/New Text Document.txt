@@ -1,0 +1,25 @@
+//Loop in Array : 
+
+
+var num =[10,20,30,40,50]
+
+
+
+
+for(var i=0;i<=4;i++)
+{
+
+    document.write(num[i]+"</br>")
+}
+
+
+//--------------------------//
+
+var names= ["Mahmud","Hasan","Rahim","Sakib","Rife"]
+
+
+for(var i=0;i<=4;i++)
+{
+
+    document.write(names[i]+"</br>")
+}

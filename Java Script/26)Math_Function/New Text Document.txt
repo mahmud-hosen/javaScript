@@ -1,0 +1,13 @@
+// Math Function
+
+document.write(Math.sqrt(25)+"</br>")
+document.write(Math.abs(-5)+"</br>")
+document.write(Math.sin(2)+"</br>")
+document.write(Math.pow(2,4)+"</br>")
+document.write(Math.floor(2.4)+"</br>")
+document.write(Math.ceil(5.3)+"</br>")
+document.write(Math.round(3.5)+"</br>")
+document.write(Math.max(2,5,6,-5,20)+"</br>")
+document.write(Math.min(1,40,5,5)+"</br>")
+document.write(Math.random()+"</br>")      // Limit(0 to 1)
+document.write(Math.floor(Math.random()*5)+1+"</br>")

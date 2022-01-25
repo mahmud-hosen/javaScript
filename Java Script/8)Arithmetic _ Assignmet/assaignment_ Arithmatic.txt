@@ -1,0 +1,19 @@
+// Arithmetic Operator -->> (+,-,*,%(Modulus_use for division resilt),**(Exponent))
+
+
+x=5+2
+y=5-2
+z=5*2
+a=5/3    // Result
+b=5%3    //Reminder
+c=5**2   //power
+
+document.write(x,"</br>")
+document.write(y,"</br>")
+document.write(z,"</br>")
+document.write(a,"</br>")
+document.write(b,"</br>")
+document.write(c,"</br>")
+
+
+// Assignment Operator = 

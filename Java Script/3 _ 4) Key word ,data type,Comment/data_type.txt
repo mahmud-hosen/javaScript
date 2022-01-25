@@ -1,0 +1,10 @@
+typeof("Mahmud")
+"string"
+typeof(535)
+"number"
+typeof(535)
+"number"
+typeof(true)
+"boolean"
+typeof(true)
+"boolean"

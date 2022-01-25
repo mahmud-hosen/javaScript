@@ -1,0 +1,9 @@
+// hoisting is a default behivare where it work after scope | let & const do't work
+x=20
+console.log(x)
+const x;
+
+// Strict mode
+"use strict"
+y=4;
+console.log(y);

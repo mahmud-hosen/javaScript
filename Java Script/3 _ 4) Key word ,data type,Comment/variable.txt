@@ -1,0 +1,8 @@
+
+         // Variable 
+
+        var mail="mahmudhossain582@gmail.com "
+        document.write(mail );   
+
+        mail="mahmud15-1862@gmail.com"
+        document.write(mail);

@@ -1,0 +1,41 @@
+// Relational_Operator :   <,>,>=,<=,==,===,!=,!==
+// Logical_Operator    :   &&,||,!
+
+
+console.log(20==20)
+true
+
+console.log(20==="20")
+ false
+
+
+console.log(25>=30)
+false
+
+
+
+
+console.log(25<=30)
+true
+
+console.log(25!=20)
+true
+
+
+//Relational
+
+
+var n=10
+var m=20
+var o=30
+
+console.log(n<m&& m<=o)
+true
+
+
+console.log(n<m ||m>=o)
+  true
+
+
+console.log(!(n<m ||m>=o))
+ false
